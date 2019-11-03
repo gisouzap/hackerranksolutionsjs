@@ -4,7 +4,7 @@
   Solutions in Javascript.
 </p>
 <hr></hr>
- <li><details><summary>10 Days of Javascript</summary>
+<details><summary>10 Days of Javascript</summary>
    <p>    
 
    </p>
