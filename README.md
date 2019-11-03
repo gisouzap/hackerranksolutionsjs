@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/gisellesouz_ti"
+<p align="center"><a href="https://www.hackerrank.com/gisellesouz_ti">
         <img src="https://user-images.githubusercontent.com/36775083/68088284-4a53a780-fe3c-11e9-8cc7-8b9341d9f831.png"
         width="20%" height="20%"/></a>
       Solutions in Javascript.
