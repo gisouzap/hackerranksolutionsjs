@@ -19,6 +19,7 @@
 | 2| [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch)| [switch.js](https://github.com/gisellesouz/hackerranksolutionsjs/blob/master/10DaysofJavascript/Day%202:%20Conditional%20Statements:%20Switch/switch.js)|
 | 2| [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)| [vowelsandconsonants.js](https://github.com/gisellesouz/hackerranksolutionsjs/blob/master/10DaysofJavascript/Day%202:%20Loops/vowelsandconsonants.js)|
 | 3| [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)| [arrays.js](https://github.com/gisellesouz/hackerranksolutionsjs/blob/master/10DaysofJavascript/Day%203:%20Arrays/arrays.js)|
+| 3| [Try, Catch and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)| [trycatchfinally.js](https://github.com/gisellesouz/hackerranksolutionsjs/blob/master/10DaysofJavascript/Day%203:%20Try%2C%20Catch%2C%20and%20Finally/trycatchfinally.js)|
 
 
 
